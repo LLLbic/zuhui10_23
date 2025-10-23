@@ -21,4 +21,4 @@
 
 
 ## 系统图示
-<image-card src="Screenshot 2025-10-23 230839.png" ></image-card>
+<img src="Screenshot 2025-10-23 230839.png" >
